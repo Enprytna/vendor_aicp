@@ -51,7 +51,6 @@ PRODUCT_PACKAGES += \
 
 # Optional packages
 PRODUCT_PACKAGES += \
-    Aperture \
     AppPredictionService \
     Etar \
     ExactCalculator \
